@@ -1,0 +1,7 @@
+D:\Proyectos Visual Estudio\WcfServiceLogin\LoginCliente\bin\Debug\LoginCliente.exe.config
+D:\Proyectos Visual Estudio\WcfServiceLogin\LoginCliente\bin\Debug\LoginCliente.exe
+D:\Proyectos Visual Estudio\WcfServiceLogin\LoginCliente\bin\Debug\LoginCliente.pdb
+D:\Proyectos Visual Estudio\WcfServiceLogin\LoginCliente\obj\Debug\LoginCliente.csproj.AssemblyReference.cache
+D:\Proyectos Visual Estudio\WcfServiceLogin\LoginCliente\obj\Debug\LoginCliente.csproj.CoreCompileInputs.cache
+D:\Proyectos Visual Estudio\WcfServiceLogin\LoginCliente\obj\Debug\LoginCliente.exe
+D:\Proyectos Visual Estudio\WcfServiceLogin\LoginCliente\obj\Debug\LoginCliente.pdb

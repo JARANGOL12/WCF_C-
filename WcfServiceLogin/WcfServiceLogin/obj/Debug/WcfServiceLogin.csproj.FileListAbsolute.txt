@@ -1,0 +1,7 @@
+D:\Proyectos Visual Estudio\WcfServiceLogin\WcfServiceLogin\bin\WcfServiceLogin.dll.config
+D:\Proyectos Visual Estudio\WcfServiceLogin\WcfServiceLogin\bin\WcfServiceLogin.dll
+D:\Proyectos Visual Estudio\WcfServiceLogin\WcfServiceLogin\bin\WcfServiceLogin.pdb
+D:\Proyectos Visual Estudio\WcfServiceLogin\WcfServiceLogin\obj\Debug\WcfServiceLogin.csproj.AssemblyReference.cache
+D:\Proyectos Visual Estudio\WcfServiceLogin\WcfServiceLogin\obj\Debug\WcfServiceLogin.csproj.CoreCompileInputs.cache
+D:\Proyectos Visual Estudio\WcfServiceLogin\WcfServiceLogin\obj\Debug\WcfServiceLogin.dll
+D:\Proyectos Visual Estudio\WcfServiceLogin\WcfServiceLogin\obj\Debug\WcfServiceLogin.pdb
